@@ -1,20 +1,18 @@
-# (TODO: your game's title)
+3dattleship
 
-Author: (TODO: your name)
+Author: Rafael Rivera
 
-Design: (TODO: In two sentences or fewer, describe what is new and interesting about your game.)
+Design: similar concept to battleship, but you place shapes in 3d space and attack a line along the x/y/z axis. I did not have time to complete my game this week either (apologies, had a few other final projects to submit.)
 
-Networking: (TODO: How does your game implement client/server multiplayer? What messages are transmitted? Where in the code?)
+Networking: It does not D:
 
 Screen Shot:
 
 ![Screen Shot](screenshot.png)
 
-How To Play:
+How To Play: (would be) mouse controlled, click to drag the 3d representation of the current game state around to view it from angles (fixed radius away from center.) click the outside to select a row/column to attack.
 
-(TODO: describe the controls and (if needed) goals/strategy.)
-
-Sources: (TODO: list a source URL for any assets you did not create yourself. Make sure you have a license for the asset.)
+Sources: N/A
 
 This game was built with [NEST](NEST.md).
 
